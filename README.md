@@ -1,6 +1,10 @@
 ## NOctu
 
-Hey boi, I'm just a taliban developper, star all my repos thx :)
+### Reverse engineer
+
+- Made il2cpp runtime dumper and disassembler
+- Made java runtime disassembler without jni
+- Made auto mappings detection algorithm for minecraft
 
 <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
